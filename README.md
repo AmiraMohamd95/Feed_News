@@ -9,5 +9,5 @@
   - sudo npm install -g ionic@latest
   
  - Used Tutorials 
-  - https://devdactic.com/rss-reader-ionic2/
+    - https://devdactic.com/rss-reader-ionic2/
   
