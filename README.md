@@ -11,4 +11,7 @@
  - Used Tutorials 
     - https://devdactic.com/rss-reader-ionic2/
     - https://www.djamware.com/post/58e657b680aca764ec903c2d/ionic-3-and-angular-4-mobile-app-example
+    - http://www.gajotres.net/ionic-2-sharing-data-between-pagescomponents/
+    - https://angular.io/guide/quickstart
+    
   
